@@ -13,20 +13,23 @@ We seek to identify __Top performing customers, products, channels of sales , re
 
 1. Sales Performance By Customers  <br> <br>
 
-![customers_behaviour_ss](https://github.com/Egbu4789/Sales_Performance_Analysis_for_a_Telecom1_Company_USA/assets/163502019/fbccd1cd-a1aa-4a4e-a9e9-65acef0235d8)
+![customers_behaviour_ss](https://github.com/Egbu4789/Sales_Performance_Analysis_for_a_Telecom1_Company_USA/assets/163502019/7c412255-fbe0-4d1d-a47e-f910d70eff4c)
+
 
 2. Sales by Channels  <br> <br>
 
-![sales_by_channel_ss](https://github.com/Egbu4789/Sales_Performance_Analysis_for_a_Telecom1_Company_USA/assets/163502019/a5f69024-9861-48dd-8781-ce2335c35d56)
+![sales_by_channel_ss](https://github.com/Egbu4789/Sales_Performance_Analysis_for_a_Telecom1_Company_USA/assets/163502019/eece627a-7ed9-4679-8792-382b1cda7bf6)
+
 
 3. Sales performance by Region:  <br> <br>
 
 
-![sales_by_region_ss](https://github.com/Egbu4789/Sales_Performance_Analysis_for_a_Telecom1_Company_USA/assets/163502019/a2040f29-9cd4-4125-96f5-ef764114ed5b)
+![sales_by_region_ss](https://github.com/Egbu4789/Sales_Performance_Analysis_for_a_Telecom1_Company_USA/assets/163502019/e51d8cd9-a528-4a86-bef0-1ae3e932ac59)
+
 
 4. Sales trend over the years:
    
-![sales_trends_over_the_years](https://github.com/Egbu4789/Sales_Performance_Analysis_for_a_Telecom1_Company_USA/assets/163502019/b52f6088-a2ca-4e0f-b6c3-e27797be4441)
+![sales_trends_over_the_years](https://github.com/Egbu4789/Sales_Performance_Analysis_for_a_Telecom1_Company_USA/assets/163502019/dd17f465-a1f9-4da0-bdcc-12d394384f39)
 
 
 ## Data Sources:
