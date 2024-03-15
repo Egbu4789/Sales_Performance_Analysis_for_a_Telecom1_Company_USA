@@ -10,6 +10,25 @@ __About the Company:__ The Telecommunication Company operates a B2B business mod
 Various aspects of the company’s sales transaction data generated over the past years was  analysed  to gain insights into their __Customer Behaviour, Product Popularity, Top Performing  Channel of Marketing, Regional Performance  and Revenue Trends__ of the company since it began. 
 
 We seek to identify __Top performing customers, products, channels of sales , region , trends, and the overall performance__ of the company , to enable the company to make data-driven decisions/recommendations and to gain a deeper understanding of the company’s overall performance. 
+
+1. Sales Performance By Customers  <br> <br>
+
+![customers_behaviour_ss](https://github.com/Egbu4789/Sales_Performance_Analysis_for_a_Telecom1_Company_USA/assets/163502019/fbccd1cd-a1aa-4a4e-a9e9-65acef0235d8)
+
+2. Sales by Channels  <br> <br>
+
+![sales_by_channel_ss](https://github.com/Egbu4789/Sales_Performance_Analysis_for_a_Telecom1_Company_USA/assets/163502019/a5f69024-9861-48dd-8781-ce2335c35d56)
+
+3. Sales performance by Region:  <br> <br>
+
+
+![sales_by_region_ss](https://github.com/Egbu4789/Sales_Performance_Analysis_for_a_Telecom1_Company_USA/assets/163502019/a2040f29-9cd4-4125-96f5-ef764114ed5b)
+
+4. Sales trend over the years:
+   
+![sales_trends_over_the_years](https://github.com/Egbu4789/Sales_Performance_Analysis_for_a_Telecom1_Company_USA/assets/163502019/b52f6088-a2ca-4e0f-b6c3-e27797be4441)
+
+
 ## Data Sources:
 __Sales Transaction Data__ : The primary dataset used for this data analysis project was sales transaction data, containing detailed information about each sales made by the company , and was extracted from the company’s database using __SQL codes__. 
 
